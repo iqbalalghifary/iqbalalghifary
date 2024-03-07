@@ -38,8 +38,8 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-[HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-[CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
  ### Frameworks & Libraries
 ![React JS](https://img.shields.io/static/v1?style=for-the-badge&message=React+JS&color=FF4154&logo=React+Query&logoColor=FFFFFF&label=)
@@ -71,11 +71,11 @@
 
 ### ⚡Github Stats
 #### Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=arimaulanahardan&&show_icons=true&count_private=true&theme=radical"/>|<img alt="iqbalalghifary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimaulanahardan&langs_count=8&count_private=true&layout=compact&theme=radical&bg_color=0D1117" />|
+<img src="https://github-readme-stats.vercel.app/api?username=iqbalalghifary&&show_icons=true&count_private=true&theme=radical"/>|<img alt="iqbalalghifary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalalghifary&langs_count=8&count_private=true&layout=compact&theme=radical&bg_color=0D1117" />|
 |---|---|
 
 #### Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arimaulanahardan&theme=radical"/>
 
 ### Github Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arimaulanahardan&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iqbalalghifary&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
