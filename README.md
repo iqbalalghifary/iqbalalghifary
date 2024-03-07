@@ -75,7 +75,7 @@
 |---|---|
 
 #### Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arimaulanahardan&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalalghifary&theme=radical"/>
 
 ### Github Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iqbalalghifary&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
