@@ -71,11 +71,6 @@
 
 ### ⚡Github Stats
 #### Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=iqbalalghifary&&show_icons=true&count_private=true&theme=radical"/>|<img alt="iqbalalghifary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalalghifary&langs_count=8&count_private=true&layout=compact&theme=radical&bg_color=0D1117" />|
+Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalalghifary&langs_count=8&count_private=true&layout=compact&theme=radical&bg_color=0D1117" />|
 |---|---|
 
-#### Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalalghifary&theme=radical"/>
-
-### Github Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iqbalalghifary&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
