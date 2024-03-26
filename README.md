@@ -71,6 +71,5 @@
 
 ### ⚡Github Stats
 #### Statistics
-Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalalghifary&langs_count=8&count_private=true&layout=compact&theme=radical&bg_color=0D1117" />|
-|---|---|
+Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalalghifary&langs_count=8&count_private=true&layout=compact&theme=radical&bg_color=0D1117"
 
